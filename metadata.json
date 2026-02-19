@@ -1,0 +1,7 @@
+{
+  "name": "Momentum",
+  "description": "A professional productivity suite focused on performance psychology, execution scoring, and AI-driven task breakdown.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
